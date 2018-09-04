@@ -1,9 +1,9 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
-var foo = [1, 2, 3]
+var foo = ["green", "yellow", "orange"]
 
 function addElementToBeginningOfArray(array, element) {
-  array.push("foo", 1)
+  chocolateBars.push("foo", 1)
 }
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
