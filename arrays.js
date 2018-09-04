@@ -1,6 +1,6 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
-var foo = ["green", "yellow", "orange"]
+var 1 = [1]
 
 function addElementToBeginningOfArray(array, element) {
   array.push([1], 'foo')
